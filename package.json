@@ -1,0 +1,5 @@
+{
+  "name": "smartbake-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Anthropic API per SmartBake"
+}
